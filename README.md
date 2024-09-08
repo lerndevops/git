@@ -1,1 +1,1 @@
-# git
+## git `--everything-is-local`
